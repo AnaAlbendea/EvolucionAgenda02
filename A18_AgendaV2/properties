@@ -1,0 +1,4 @@
+ bbdd.url=jdbc:mysql://localhost/16_ejercicio_jpa"
+ bbdd.driver=com.mysql.cj.jdbc.Driver
+ bbdd.pass=Root
+ bbdd.user=root
